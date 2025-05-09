@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "paths": {
+      "ui": ["packages/ui/src"],
+      "ui/*": ["packages/ui/src/*"]
+    }
+  }
+}
